@@ -1,0 +1,2 @@
+# GITTrial
+trying out GIT
